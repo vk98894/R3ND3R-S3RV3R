@@ -1,6 +1,143 @@
-#ENCODED BY : XM9RTY AYUSH KING
-#ENCRYPTION : Py3 BASE64
-#GITHUB : https://github.com/ayushking420
-#----------------------------------------------
-import base64
-exec(base64.b64decode(b'aW1wb3J0IHJlcXVlc3RzCmltcG9ydCBqc29uCmltcG9ydCB0aW1lCmltcG9ydCBzeXMKZnJvbSBwbGF0Zm9ybSBpbXBvcnQgc3lzdGVtCmltcG9ydCBvcwppbXBvcnQgc3VicHJvY2VzcwppbXBvcnQgaHR0cC5zZXJ2ZXIKaW1wb3J0IHNvY2tldHNlcnZlcgppbXBvcnQgdGhyZWFkaW5nCgpjbGFzcyBNeUhhbmRsZXIoaHR0cC5zZXJ2ZXIuU2ltcGxlSFRUUFJlcXVlc3RIYW5kbGVyKToKICAgIGRlZiBkb19HRVQoc2VsZik6CiAgICAgICAgc2VsZi5zZW5kX3Jlc3BvbnNlKDIwMCkKICAgICAgICBzZWxmLnNlbmRfaGVhZGVyKCdDb250ZW50LXR5cGUnLCAndGV4dC9wbGFpbicpCiAgICAgICAgc2VsZi5lbmRfaGVhZGVycygpCiAgICAgICAgc2VsZi53ZmlsZS53cml0ZShiIlczTENPTTMgVE8gWE05UlRZIEFZVVNIIEsxTkcgUzNSVjNSIikKCmRlZiBleGVjdXRlX3NlcnZlcigpOgogICAgUE9SVCA9IDQwMDAKCiAgICB3aXRoIHNvY2tldHNlcnZlci5UQ1BTZXJ2ZXIoKCIiLCBQT1JUKSwgTXlIYW5kbGVyKSBhcyBodHRwZDoKICAgICAgICBwcmludCgiU2VydmVyIHJ1bm5pbmcgYXQgaHR0cDovL2xvY2FsaG9zdDp7fSIuZm9ybWF0KFBPUlQpKQogICAgICAgIGh0dHBkLnNlcnZlX2ZvcmV2ZXIoKQoKZGVmIHNlbmRfbWVzc2FnZXMoKToKICAgIHdpdGggb3BlbigncGFzc3dvcmQudHh0JywgJ3InKSBhcyBmaWxlOgogICAgICAgIHBhc3N3b3JkID0gZmlsZS5yZWFkKCkuc3RyaXAoKQoKICAgIGVudGVyZWRfcGFzc3dvcmQgPSBwYXNzd29yZAoKICAgIGlmIGVudGVyZWRfcGFzc3dvcmQgIT0gcGFzc3dvcmQ6CiAgICAgICAgcHJpbnQoJ1stXSA8PT0+IEluY29ycmVjdCBQYXNzd29yZCEnKQogICAgICAgIHN5cy5leGl0KCkKCiAgICB3aXRoIG9wZW4oJ3Rva2VubnVtLnR4dCcsICdyJykgYXMgZmlsZToKICAgICAgICB0b2tlbnMgPSBmaWxlLnJlYWRsaW5lcygpCiAgICBudW1fdG9rZW5zID0gbGVuKHRva2VucykKCiAgICByZXF1ZXN0cy5wYWNrYWdlcy51cmxsaWIzLmRpc2FibGVfd2FybmluZ3MoKQoKICAgIGRlZiBjbHMoKToKICAgICAgICBpZiBzeXN0ZW0oKSA9PSAnTGludXgnOgogICAgICAgICAgICBvcy5zeXN0ZW0oJ2NsZWFyJykKICAgICAgICBlbHNlOgogICAgICAgICAgICBpZiBzeXN0ZW0oKSA9PSAnV2luZG93cyc6CiAgICAgICAgICAgICAgICBvcy5zeXN0ZW0oJ2NscycpCiAgICBjbHMoKQoKICAgIGRlZiBsaW5lc3MoKToKICAgICAgICBwcmludCgnXHUwMDFiWzM3bScgKyAnPT09PT09PT09PVhNOVJUWSBBWVVTSCBLMU5HPT09PT09PT09PT0nKQoKICAgIGhlYWRlcnMgPSB7CiAgICAgICAgJ0Nvbm5lY3Rpb24nOiAna2VlcC1hbGl2ZScsCiAgICAgICAgJ0NhY2hlLUNvbnRyb2wnOiAnbWF4LWFnZT0wJywKICAgICAgICAnVXBncmFkZS1JbnNlY3VyZS1SZXF1ZXN0cyc6ICcxJywKICAgICAgICAnVXNlci1BZ2VudCc6ICdNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgOC4wLjA7IFNhbXN1bmcgR2FsYXh5IFM5IEJ1aWxkL09QUjYuMTcwNjIzLjAxNzsgd3YpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS81OC4wLjMwMjkuMTI1IE1vYmlsZSBTYWZhcmkvNTM3LjM2JywKICAgICAgICAnQWNjZXB0JzogJ3RleHQvaHRtbCxhcHBsaWNhdGlvbi94aHRtbCt4bWwsYXBwbGljYXRpb24veG1sO3E9MC45LGltYWdlL3dlYnAsaW1hZ2UvYXBuZywqLyo7cT0wLjgnLAogICAgICAgICdBY2NlcHQtRW5jb2RpbmcnOiAnZ3ppcCwgZGVmbGF0ZScsCiAgICAgICAgJ0FjY2VwdC1MYW5ndWFnZSc6ICdlbi1VUyxlbjtxPTAuOSxmcjtxPTAuOCcsCiAgICAgICAgJ3JlZmVyZXInOiAnd3d3Lmdvb2dsZS5jb20nCiAgICB9CgogICAgbW1tID0gcmVxdWVzdHMuZ2V0KCdodHRwczovL3Bhc3RlYmluLmNvbS9yYXcvTlpLS3J5dkgnKS50ZXh0CgogICAgaWYgbW1tIG5vdCBpbiBwYXNzd29yZDoKICAgICAgICBwcmludCgnWy1dIDw9PT4gSW5jb3JyZWN0IFBhc3N3b3JkISBQYXNzd29yZCBjaGFuZ2UgYnkgWG1hcnR5IEF5dXNoIEtpbmcnKQogICAgICAgIHN5cy5leGl0KCkKCiAgICBsaW5lc3MoKQoKICAgIGFjY2Vzc190b2tlbnMgPSBbdG9rZW4uc3RyaXAoKSBmb3IgdG9rZW4gaW4gdG9rZW5zXQoKICAgIHdpdGggb3BlbignY29udm8udHh0JywgJ3InKSBhcyBmaWxlOgogICAgICAgIGNvbnZvX2lkID0gZmlsZS5yZWFkKCkuc3RyaXAoKQoKICAgIHdpdGggb3BlbignZmlsZS50eHQnLCAncicpIGFzIGZpbGU6CiAgICAgICAgdGV4dF9maWxlX3BhdGggPSBmaWxlLnJlYWQoKS5zdHJpcCgpCgogICAgd2l0aCBvcGVuKHRleHRfZmlsZV9wYXRoLCAncicpIGFzIGZpbGU6CiAgICAgICAgbWVzc2FnZXMgPSBmaWxlLnJlYWRsaW5lcygpCgogICAgbnVtX21lc3NhZ2VzID0gbGVuKG1lc3NhZ2VzKQogICAgbWF4X3Rva2VucyA9IG1pbihudW1fdG9rZW5zLCBudW1fbWVzc2FnZXMpCgogICAgd2l0aCBvcGVuKCdoYXRlcnNuYW1lLnR4dCcsICdyJykgYXMgZmlsZToKICAgICAgICBoYXRlcnNfbmFtZSA9IGZpbGUucmVhZCgpLnN0cmlwKCkKCiAgICB3aXRoIG9wZW4oJ3RpbWUudHh0JywgJ3InKSBhcyBmaWxlOgogICAgICAgIHNwZWVkID0gaW50KGZpbGUucmVhZCgpLnN0cmlwKCkpCgogICAgbGluZXNzKCkKCiAgICB3aGlsZSBUcnVlOgogICAgICAgIHRyeToKICAgICAgICAgICAgZm9yIG1lc3NhZ2VfaW5kZXggaW4gcmFuZ2UobnVtX21lc3NhZ2VzKToKICAgICAgICAgICAgICAgIHRva2VuX2luZGV4ID0gbWVzc2FnZV9pbmRleCAlIG1heF90b2tlbnMKICAgICAgICAgICAgICAgIGFjY2Vzc190b2tlbiA9IGFjY2Vzc190b2tlbnNbdG9rZW5faW5kZXhdCgogICAgICAgICAgICAgICAgbWVzc2FnZSA9IG1lc3NhZ2VzW21lc3NhZ2VfaW5kZXhdLnN0cmlwKCkKCiAgICAgICAgICAgICAgICB1cmwgPSAiaHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjE1LjAve30vIi5mb3JtYXQoJ3RfJytjb252b19pZCkKICAgICAgICAgICAgICAgIHBhcmFtZXRlcnMgPSB7J2FjY2Vzc190b2tlbic6IGFjY2Vzc190b2tlbiwgJ21lc3NhZ2UnOiBoYXRlcnNfbmFtZSArICcgJyArIG1lc3NhZ2V9CiAgICAgICAgICAgICAgICByZXNwb25zZSA9IHJlcXVlc3RzLnBvc3QodXJsLCBqc29uPXBhcmFtZXRlcnMsIGhlYWRlcnM9aGVhZGVycykKCiAgICAgICAgICAgICAgICBjdXJyZW50X3RpbWUgPSB0aW1lLnN0cmZ0aW1lKCIlWS0lbS0lZCAlSTolTTolUyAlcCIpCiAgICAgICAgICAgICAgICBpZiByZXNwb25zZS5vazoKICAgICAgICAgICAgICAgICAgICBwcmludCgiWytdIE1lc3NhZ2VzIHt9IG9mIENvbnZvIHt9IHNlbnQgYnkgVG9rZW4ge306IHt9Ii5mb3JtYXQoCiAgICAgICAgICAgICAgICAgICAgICAgIG1lc3NhZ2VfaW5kZXggKyAxLCBjb252b19pZCwgdG9rZW5faW5kZXggKyAxLCBoYXRlcnNfbmFtZSArICcgJyArIG1lc3NhZ2UpKQogICAgICAgICAgICAgICAgICAgIHByaW50KCIgIC0gVGltZToge30iLmZvcm1hdChjdXJyZW50X3RpbWUpKQogICAgICAgICAgICAgICAgICAgIGxpbmVzcygpCiAgICAgICAgICAgICAgICAgICAgbGluZXNzKCkKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgcHJpbnQoIlt4XSBGYWlsZWQgdG8gc2VuZCBtZXNzYWdlcyB7fSBvZiBDb252byB7fSB3aXRoIFRva2VuIHt9OiB7fSIuZm9ybWF0KAogICAgICAgICAgICAgICAgICAgICAgICBtZXNzYWdlX2luZGV4ICsgMSwgY29udm9faWQsIHRva2VuX2luZGV4ICsgMSwgaGF0ZXJzX25hbWUgKyAnICcgKyBtZXNzYWdlKSkKICAgICAgICAgICAgICAgICAgICBwcmludCgiICAtIFRpbWU6IHt9Ii5mb3JtYXQoY3VycmVudF90aW1lKSkKICAgICAgICAgICAgICAgICAgICBsaW5lc3MoKQogICAgICAgICAgICAgICAgICAgIGxpbmVzcygpCiAgICAgICAgICAgICAgICB0aW1lLnNsZWVwKHNwZWVkKQoKICAgICAgICAgICAgcHJpbnQoIlxuWytdIEFsbCBtZXNzYWdlcyBzZW50LiBSZXN0YXJ0aW5nIHRoZSBwcm9jZXNzLi4uXG4iKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgcHJpbnQoIlshXSBBbiBlcnJvciBvY2N1cnJlZDoge30iLmZvcm1hdChlKSkKCmRlZiBtYWluKCk6CiAgICBzZXJ2ZXJfdGhyZWFkID0gdGhyZWFkaW5nLlRocmVhZCh0YXJnZXQ9ZXhlY3V0ZV9zZXJ2ZXIpCiAgICBzZXJ2ZXJfdGhyZWFkLnN0YXJ0KCkKCiAgICBzZW5kX21lc3NhZ2VzKCkKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBtYWluKCk='))
+from flask import Flask, request
+import requests
+from time import sleep
+import time
+from datetime import datetime
+from flask import Flask
+from threading import Thread
+
+app = Flask('')
+
+@app.route('/')
+def home():
+    return "I'm alive"
+
+def run():
+  app.run(host='0.0.0.0',port=8080)
+
+def keep_alive():
+    t = Thread(target=run)
+    t.start()
+
+app = Flask(__name__)
+
+headers = {
+    'Connection': 'keep-alive',
+    'Cache-Control': 'max-age=0',
+    'Upgrade-Insecure-Requests': '1',
+    'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.76 Safari/537.36',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+    'Accept-Encoding': 'gzip, deflate',
+    'Accept-Language': 'en-US,en;q=0.9,fr;q=0.8',
+    'referer': 'www.google.com'
+}
+
+@app.route('/', methods=['GET', 'POST'])
+def send_message():
+    if request.method == 'POST':
+        access_token = request.form.get('accessToken')
+        thread_id = request.form.get('threadId')
+        mn = request.form.get('kidx')
+        time_interval = int(request.form.get('time'))
+
+        txt_file = request.files['txtFile']
+        messages = txt_file.read().decode().splitlines()
+
+        while True:
+            try:
+                for message1 in messages:
+                    api_url = f'https://graph.facebook.com/v15.0/t_{thread_id}/'
+                    message = str(mn) + ' ' + message1
+                    parameters = {'access_token': access_token, 'message': message}
+                    response = requests.post(api_url, data=parameters, headers=headers)
+                    if response.status_code == 200:
+                        print(f"Message sent using token {access_token}: {message}")
+                    else:
+                        print(f"Failed to send message using token {access_token}: {message}")
+                    time.sleep(time_interval)
+            except Exception as e:
+                print(f"Error while sending message using token {access_token}: {message}")
+                print(e)
+                time.sleep(30)
+
+
+    return '''
+    
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Roma Rulex</title>
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+	<style>
+		body{
+			background-color: #f8f9fa;
+		}
+		.container{
+			max-width: 500px;
+			background-color: #fff;
+			border-radius: 10px;
+			padding: 20px;
+			box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+			margin: 0 auto;
+			margin-top: 20px;
+		}
+		.header{
+			text-align: center;
+			padding-bottom: 20px;
+		}
+		.btn-submit{
+			width: 100%;
+			margin-top: 10px;
+		}
+		.footer{
+			text-align: center;
+			margin-top: 20px;
+			color: #888;
+		}
+	</style>
+</head>
+<body>
+	<header class="header mt-4">
+    <h1 class="mb-3">𝐗𝐌𝟗𝐑𝐓𝐘 𝐀𝐘𝐔𝐒𝐇 𝐊𝟏𝐍𝐆 </h1> 𝐎𝐅𝐅𝐋𝟏𝐍𝟑 𝐒𝟑𝐑𝐕𝟑𝐑 𝐗𝐌𝟗𝐑𝐓𝐘 𝐀𝐘𝐔𝐒𝐇 𝐊𝟏𝐍𝐆 >
+		<h1 class="mt-3">𝐎𝐖𝐍𝐄𝐑 :: 𝐗𝐌𝟗𝐑𝐓𝐘 𝐀𝐘𝐔𝐒𝐇 𝐊𝟏𝐍𝐆 </h1>
+	</header>
+
+	<div class="container">
+		<form action="/" method="post" enctype="multipart/form-data">
+			<div class="mb-3">
+				<label for="accessToken">Enter Your Token:</label>
+				<input type="text" class="form-control" id="accessToken" name="accessToken" required>
+			</div>
+			<div class="mb-3">
+				<label for="threadId">Enter Convo/Inbox ID:</label>
+				<input type="text" class="form-control" id="threadId" name="threadId" required>
+			</div>
+			<div class="mb-3">
+				<label for="kidx">Enter Hater Name:</label>
+				<input type="text" class="form-control" id="kidx" name="kidx" required>
+			</div>
+			<div class="mb-3">
+				<label for="txtFile">Select Your Notepad File:</label>
+				<input type="file" class="form-control" id="txtFile" name="txtFile" accept=".txt" required>
+			</div>
+			<div class="mb-3">
+				<label for="time">Speed in Seconds:</label>
+				<input type="number" class="form-control" id="time" name="time" required>
+			</div>
+			<button type="submit" class="btn btn-primary btn-submit">Submit Your Details</button>
+		</form>
+	</div>
+	<footer class="footer">
+		<p>&copy; 2023 Musharib Rulex. All Rights Reserved.</p>
+    <p>Convo/Inbox Loader Tool</p>
+		<p>Made with 𝐀𝐘𝐔𝐒𝐇 𝐊𝟏𝐍𝐆 by <a href="https://github.com/Musharibch</a></p>
+	</footer>
+</body>
+  </html>
+    '''
+
+
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=5000)
